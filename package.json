@@ -1,0 +1,17 @@
+{
+  "name": "plumpplum-light",
+  "version": "1.0.0",
+  "description": "When a picker enters an aisle \tFire off picker entry request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "serialport": "^6.1.1",
+    "sockjs": "^0.3.19",
+    "sockjs-client": "^1.1.4"
+  }
+}
